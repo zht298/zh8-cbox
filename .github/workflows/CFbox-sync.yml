@@ -1,4 +1,4 @@
-name: Sync and Rename Worker Script
+name: '更新CFbox'
 
 on:
   schedule:
